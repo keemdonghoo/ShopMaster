@@ -10,11 +10,11 @@
             }
             Console.WriteLine("article");
             {
-
+                Console.WriteLine("본문이오"); //A#3
             }
             Console.WriteLine("footer");
             {
-
+                Console.WriteLine("그레이엄 포터"); //A#3
             }
         }
 
