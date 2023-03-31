@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShopMaster.domain
+namespace ShopMaster
 {
-    internal class MemberDAO
-    {       
+    internal class Signup
+    {
     }
 }
