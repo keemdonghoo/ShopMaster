@@ -8,6 +8,7 @@
             {
                 Console.WriteLine("헤딩입니다");  // A#2
                 Console.WriteLine("회원가입");   //B#4
+                Console.WriteLine("about");     //A#8
             }
             Console.WriteLine("article");
             {
